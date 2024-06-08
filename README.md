@@ -1,17 +1,15 @@
 # Lab 1
 
 ## Overview
-This lab focuses on enhancing productivity and technical skills through keyboard shortcuts, Node.js, and Command Line Interface (CLI) commands. Participants will gain hands-on experience to work more efficiently in a development environment.
+For this lab, the primary focus was on enhancing productivity and technical skills through the utilization of keyboard shortcuts, Node.js, and Command Line Interface (CLI) commands. Participants were provided with hands-on experience to work more efficiently within a development environment.
 
 ## Objectives
 
 ### Keyboard Shortcuts:
-Learn essential shortcuts for Windows, macOS, and Linux.
-Practice text editing and application-specific shortcuts.
+Participants learned essential shortcuts tailored for Windows, macOS, and Linux operating systems. They practiced text editing and application-specific shortcuts to streamline their workflow.
 
 ### Node.js:
-Install Node.js and manage packages with npm.
-Develop and run basic Node.js applications.
+The lab involved installing Node.js and familiarizing participants with package management using npm. Additionally, participants developed and executed basic Node.js applications to reinforce their understanding of the platform.
 
 ### CLI Commands:
-Master fundamental and advanced CLI commands.
+Participants mastered both fundamental and advanced CLI commands, gaining proficiency in navigating and utilizing the command line interface. This included tasks such as file management and system diagnostics, empowering them to work more effectively within a terminal environment.
